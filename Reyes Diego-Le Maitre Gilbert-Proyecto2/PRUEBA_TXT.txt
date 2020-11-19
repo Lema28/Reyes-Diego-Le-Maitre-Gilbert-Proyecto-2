@@ -1,0 +1,10 @@
+001#002#444444#reyes#caton#diego#55555#calle juana@
+003#2020#60005040#Lopez#Cedeno#Juan#85858687#barrio la vaca@
+004#2021#60405040#Gutierres#Navas#Gregory#85858697#barrio la Esperanza@
+005#2022#60405040#varela#red#Armando#85858697#barrio la Esperanza@
+007#2024#21313204#ramirez#Navas#Valeria#8909097#barrio el rio@
+008#2025#0099840#martinez#perez#sofia#12348697#barrio la belleza@
+571#2024#8888888#Castro#Cedeno#Carmen#999997#ciudadela el lemaitre@
+088#111#5555555#Guzman#Artola#Brandon#84848564#en la colina ciudad neily@
+455#450#66559922#Ugalde#Perez#Andrea#65489632#Barrio el descanso@
+724#767#65789633#Barquero#Villalobos#Fabian#87147093#La 22 de Octubre@
